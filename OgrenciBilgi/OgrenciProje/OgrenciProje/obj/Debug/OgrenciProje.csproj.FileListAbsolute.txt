@@ -1,0 +1,26 @@
+C:\Users\PC\Desktop\BurakOzer\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\BurakOzer\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.Form1.resources
+C:\Users\PC\Desktop\BurakOzer\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.NotGiris.resources
+C:\Users\PC\Desktop\BurakOzer\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.OgrenciBilgi.resources
+C:\Users\PC\Desktop\BurakOzer\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.OgretmenBilgi.resources
+C:\Users\PC\Desktop\BurakOzer\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.Properties.Resources.resources
+C:\Users\PC\Desktop\BurakOzer\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\BurakOzer\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\BurakOzer\OgrenciProje\OgrenciProje\bin\Debug\OgrenciProje.exe.config
+C:\Users\PC\Desktop\BurakOzer\OgrenciProje\OgrenciProje\bin\Debug\OgrenciProje.exe
+C:\Users\PC\Desktop\BurakOzer\OgrenciProje\OgrenciProje\bin\Debug\OgrenciProje.pdb
+C:\Users\PC\Desktop\BurakOzer\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.exe
+C:\Users\PC\Desktop\BurakOzer\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.pdb
+C:\Users\PC\Desktop\Sabis Subu\OgrenciBilgi\OgrenciProje\OgrenciProje\bin\Debug\OgrenciProje.exe.config
+C:\Users\PC\Desktop\Sabis Subu\OgrenciBilgi\OgrenciProje\OgrenciProje\bin\Debug\OgrenciProje.exe
+C:\Users\PC\Desktop\Sabis Subu\OgrenciBilgi\OgrenciProje\OgrenciProje\bin\Debug\OgrenciProje.pdb
+C:\Users\PC\Desktop\Sabis Subu\OgrenciBilgi\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Sabis Subu\OgrenciBilgi\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.Form1.resources
+C:\Users\PC\Desktop\Sabis Subu\OgrenciBilgi\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.NotGiris.resources
+C:\Users\PC\Desktop\Sabis Subu\OgrenciBilgi\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.OgrenciBilgi.resources
+C:\Users\PC\Desktop\Sabis Subu\OgrenciBilgi\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.OgretmenBilgi.resources
+C:\Users\PC\Desktop\Sabis Subu\OgrenciBilgi\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.Properties.Resources.resources
+C:\Users\PC\Desktop\Sabis Subu\OgrenciBilgi\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Sabis Subu\OgrenciBilgi\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Sabis Subu\OgrenciBilgi\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.exe
+C:\Users\PC\Desktop\Sabis Subu\OgrenciBilgi\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.pdb
